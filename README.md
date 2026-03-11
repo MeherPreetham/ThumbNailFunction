@@ -90,7 +90,7 @@ curl -X POST http://localhost:7071/api/create_thumbnail \
 
 **Meher Preetham Kommera**  
 Master's in Cloud Computing  
-[LinkedIn]([(https://www.linkedin.com/in/meher-preetham-kommera-23184023a/)]) • [GitHub](https://github.com/MeherPreetham)
+[LinkedIn](https://www.linkedin.com/in/meher-preetham-kommera-23184023a/) • [GitHub](https://github.com/MeherPreetham)
 
 ---
 
